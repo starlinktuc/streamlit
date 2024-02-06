@@ -1,6 +1,7 @@
-# Welcome to Streamlit!
+# Bienvenido a StarlinkTuc!
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
+Edit `/streamlit_app.py` to cambiar las configuraciones de esta app como tu corazón lo decidas. :heart:
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+Si quieres puedes ver la documentación disponible sobre este tema: [documentation](https://docs.streamlit.io) y [community
+foro ](https://discuss.streamlit.io).
+
